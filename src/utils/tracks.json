@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "Tjärnheden",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002ca5a7517156021292e5663a6",
+    "time": 56,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 2,
+    "name": "Quand vous souriez",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000025353886459b6832a8bb4c90a",
+    "time": 80,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 3,
+    "name": "Allena",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002c771198277ecd33007dd2de4",
+    "time": 80,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 4,
+    "name": "Saying Things",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002708c623e2e1df4607775381b",
+    "time": 34,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 5,
+    "name": "Oaks Bluffs",
+    "thumbnail": "https://i.scdn.co/image/ab67706f0000000244974902f0d4e2f4613bc3b0",
+    "time": 18,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 6,
+    "name": "pæoner",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000023f22beb2471ef8949bb95d97",
+    "time": 75,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 7,
+    "name": "Open to return",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000025b9afc20f73de2953ea450f7",
+    "time": 32,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 8,
+    "name": "Entangled - Ole-Bjørn Talstad Rework",
+    "thumbnail": "https://i.scdn.co/image/ab67706f0000000278b4745cb9ce8ffe32daaf7e",
+    "time": 36,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 9,
+    "name": "Glance Out A Casement Window",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002b0fe40a6e1692822f5a9d8f1",
+    "time": 88,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 10,
+    "name": "Lyrides",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000026687289e2d34fcffe1ca4c41",
+    "time": 21,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 11,
+    "name": "Má sestra",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002681aedeef71838f60be5fdde",
+    "time": 29,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 12,
+    "name": "Amor Eterno",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002c5f40e98895903a42c82024d",
+    "time": 79,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 13,
+    "name": "Solace",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000020b1bce98e70139ea34f572c2",
+    "time": 3,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 14,
+    "name": "Nouvelles Tentatives",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000020de5866cf41c56865ed926c7",
+    "time": 41,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 15,
+    "name": "Morning Dance",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002329e2c5d3104f8c6a1d16a34",
+    "time": 28,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 16,
+    "name": "Emerald Enlightenment",
+    "thumbnail": "https://i.scdn.co/image/ab67706f000000028b24a34ec6818ba8eb76d222",
+    "time": 22,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 17,
+    "name": "Waitings",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002d32dc2885c12240aaa59c850",
+    "time": 32,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 18,
+    "name": "From Home",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002c96c5f4f4b930ac50ab25a93",
+    "time": 25,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 19,
+    "name": "Nordanvind",
+    "thumbnail": "https://i.scdn.co/image/ab67706f0000000259392cdf993a1e5d3dc652e8",
+    "time": 21,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 20,
+    "name": "Tôt le matin",
+    "thumbnail": "https://i.scdn.co/image/ab67656300005f1fa59bff66da7c1d7db3435348",
+    "time": 30,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 21,
+    "name": "Chichiro",
+    "thumbnail": "https://i.scdn.co/image/7f0eca956ba53a9209015cbc74b3aa081f86301e",
+    "time": 49,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 22,
+    "name": "Shizukana",
+    "thumbnail": "https://i.scdn.co/image/ab67656300005f1f86559e00186a23437db5d3cc",
+    "time": 0,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 23,
+    "name": "Air from Air",
+    "thumbnail": "https://i.scdn.co/image/ab67656300005f1f5f83caee4f0295d21eedeb5f",
+    "time": 80,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 24,
+    "name": "Lydian Fairytale",
+    "thumbnail": "https://i.scdn.co/image/ab67656300005f1f4c92d7bb78f33f3590730e05",
+    "time": 93,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 25,
+    "name": "Un sourire et une larme (valse)",
+    "thumbnail": "https://i.scdn.co/image/ab67656300005f1fb199a1835310c445f259e538",
+    "time": 57,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 26,
+    "name": "Release from silence",
+    "thumbnail": "https://i.scdn.co/image/ab67706f0000000215297c6da2b7d7fe27cfa372",
+    "time": 86,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 27,
+    "name": "Reflections",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002c1a5b7ee85367aaaacdb9429",
+    "time": 5,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  },
+  {
+    "id": 28,
+    "name": "Liminal ride",
+    "thumbnail": "https://i.scdn.co/image/ab67706f00000002abaf6c3c6a4b29f8a4565a86",
+    "time": 55,
+    "added_date": "14/3/2023",
+    "artist": "Emanuel Fremont"
+  }
+]
