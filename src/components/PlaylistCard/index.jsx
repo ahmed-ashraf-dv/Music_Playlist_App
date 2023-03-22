@@ -10,9 +10,10 @@ import { Dropdown, ButtonToolbar } from "rsuite";
 // imgs
 import plustIcon from "../../static/plustIcon.png";
 
-const PlaylistCard = ({ playlist, added }) => {
+const PlaylistCard = ({ playlist, added, onClick, deletePlaylist }) => {
   return (
     <div
+      onClick={added ? onClick : null}
       style={{ background: "#121212", maxWidth: 250 }}
       className={`border rounded-4 px-3 pb-3 mb-5 mx-auto cu-pointer`}
     >
@@ -24,7 +25,12 @@ const PlaylistCard = ({ playlist, added }) => {
                 <BsThreeDots {...props} className="fs-4 cu-pointer" />
               )}
             >
-              <Dropdown.Item eventKey="e-10">Delete</Dropdown.Item>
+              <Dropdown.Item
+                onClick={() => deletePlaylist(playlist?.id)}
+                eventKey="e-10"
+              >
+                Delete
+              </Dropdown.Item>
               <Dropdown.Item eventKey="e-20">Share</Dropdown.Item>
             </Dropdown>
           </ButtonToolbar>

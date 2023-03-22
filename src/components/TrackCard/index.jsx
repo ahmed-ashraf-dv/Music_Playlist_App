@@ -2,11 +2,20 @@ import React from "react";
 
 // icons
 import { BsThreeDots } from "react-icons/bs";
+import { useDispatch, useSelector } from "react-redux";
 
 // components
 import { Dropdown, ButtonToolbar } from "rsuite";
+import { addMusic } from "../../app/slices/playlist";
 
-const TrackCard = ({ track }) => {
+const TrackCard = ({ track, setShowModal }) => {
+  const dispatch = useDispatch();
+  const playlists = useSelector(({ playlists }) => playlists);
+
+  const addToPlaylist = (playlistId) => {
+    dispatch(addMusic({ trackId: track?.id, playlistId }));
+  };
+
   return (
     <div
       style={{ background: "#121212", maxWidth: 250 }}
@@ -21,8 +30,16 @@ const TrackCard = ({ track }) => {
           >
             <Dropdown.Item eventKey="e-10">Make Secret</Dropdown.Item>
             <Dropdown.Menu title="Add To PlayList">
-              <Dropdown.Item eventKey="e-1">Playlist 1</Dropdown.Item>
-              <Dropdown.Item eventKey="e-2">
+              {playlists?.map((playlist, idx) => (
+                <Dropdown.Item
+                  key={idx}
+                  onClick={() => addToPlaylist(playlist?.id)}
+                  eventKey={idx}
+                >
+                  {playlist?.name}
+                </Dropdown.Item>
+              ))}
+              <Dropdown.Item onClick={setShowModal} eventKey="e-2">
                 + Create new playlist
               </Dropdown.Item>
             </Dropdown.Menu>
